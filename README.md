@@ -2,7 +2,7 @@
 
 **Version:** 1.0.4  
 **Author:** David S  
-**Copyright:** © 2025 David S all rights reserved
+**Copyright:** © 2026 David S all rights reserved
 
 ---
 
