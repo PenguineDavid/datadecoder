@@ -2,8 +2,8 @@
 
 **Version:** 1.0.4  
 **Author:** David S  
-**Copyright:** © 2026 David S all rights reserved
-**Creative-Commons:** This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License
+**Copyright:** © 2026 David S all rights reserved   
+**Creative-Commons:** This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License   
 
 ---
 
