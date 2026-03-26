@@ -1,6 +1,6 @@
 # PolyForm Noncommercial License 1.0.0
 
-Copyright © 2026 PenguineDavid
+Copyright © 2026 PenguineDavid All Rights Reserved
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to use, copy,
