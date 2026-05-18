@@ -42,3 +42,18 @@ Python 3.8+ is recommended.
 Install dependencies:
 ```bash
 pip install colorama
+```
+
+---
+
+## License
+
+datadecoder - A small python app for decoding data
+Copyright (C) 2026 PenguineDavid
+
+This program is free software: you can redistribute it and/or modify  
+it under the terms of the GNU General Public License as published by  
+the Free Software Foundation, either version 3 of the License, or  
+(at your option) any later version.
+
+See the [LICENSE](https://github.com/PenguineDavid/datadecoder?tab=GPL-3.0-1-ov-file) file for the full license text.
